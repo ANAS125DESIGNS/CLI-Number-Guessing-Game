@@ -15,5 +15,5 @@ if (answers.userGuessedNumber === randomNumber) {
     console.log("Congratulations Your Guessed Number Is Rigth");
 }
 else {
-    console.log("Your Guessed Number Is Wrong, Please Try Again");
+    console.log("Wrong Answer, Please Try Again");
 }
